@@ -50,7 +50,7 @@ p{
 		text-align		:left;
 		font-family		:"Lucida Console", "Consolas New", monospace;
 		font-size		:18px;
-		font-weight		:noraml;
+		font-weight		:bold;
 	padding			:10px;
 	border			:0px solid rgb(  8,  8, 24);
 	margin			:auto;
@@ -299,35 +299,3 @@ li a:hover, a:active, a:focus{
 	.jerry{
 		float:right;
 	}
-
-.mystic{
-	color:rgb(256,256,256);
-	font-weight:bold;
-	font-style:normal;
-}
-
-#rock{
-	background-color:rgb(256,256,256);
-	color			:rgb(128,  0,  0);
-	text-align		:left;
-	font-family		:"Consolas";
-	font-size		:18px;
-	font-weight		:bold;
-	margin-left		:auto;
-	margin-right	:auto;
-}
-#metal{
-	background-color:rgb(  0,  0,  0);
-	color			:rgb(256,256,256);
-	font-family		:"Impact";
-}
-#tracker{
-	background-color:rgb(  0,  0, 32);
-	color			:rgb(156,156,156);
-	text-align		:left;
-	font-family		:"Lucida Console", monospace;
-	font-size		:18px;
-	font-weight		:bold;
-	margin-left		:auto;
-	margin-right	:auto;
-    }
