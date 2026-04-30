@@ -8,6 +8,7 @@
 	Georgia			=Serif
 	Comic Sans MS	=Cursive
 */
+
 /*Fast-Travler*/
 .ft{
 	/*background-color:rgb( 24,  56,  96);
@@ -37,8 +38,8 @@ body{
 	background-color:rgb( 24,  56,  96);
 	color			:rgb(256, 256, 256);
 	text-align		:center;
-	font-family		:"Lucida Console", "Consolas New", monospace;
-	font-size		:16px;
+	font-family		:"Roboto" "Lucida Console", "Consolas New", monospace;
+	font-size		:18px;
 	padding			:10px;
 	border			: 1px none rgb(128,128,256);
 	margin			:10px;
@@ -47,13 +48,15 @@ body{
 p{
 	background-color:rgb(256,256,256);
 	color			:rgb(  0,  0,  0);
+
 		text-align		:left;
-		font-family		:"Lucida Console", "Consolas New", monospace;
 		font-size		:18px;
 		font-weight		:bold;
+
 	padding			:10px;
 	border			:0px solid rgb(  8,  8, 24);
-	margin			:auto;
+	margin			:10px;
+
 	/*background-color:rgb(256, 256, 232);
 	color			:rgb(  0,   0,   0);
 	text-align		:left;
