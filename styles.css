@@ -38,7 +38,7 @@ body{
 	background-color:rgb( 24,  56,  96);
 	color			:rgb(256, 256, 256);
 	text-align		:center;
-	font-family		:"Roboto" "Lucida Console", "Consolas New", monospace;
+	font-family		:"Lucida Console", "Consolas New", monospace;
 	font-size		:18px;
 	padding			:10px;
 	border			: 1px none rgb(128,128,256);
@@ -51,7 +51,7 @@ p{
 
 		text-align		:left;
 		font-size		:18px;
-		font-weight		:bold;
+		font-weight		:none;
 
 	padding			:10px;
 	border			:0px solid rgb(  8,  8, 24);
@@ -60,7 +60,7 @@ p{
 	/*background-color:rgb(256, 256, 232);
 	color			:rgb(  0,   0,   0);
 	text-align		:left;
-	font-family		:"Lucida Console", monospace;
+	font-family		:"Lucida Console", "Consolas New", monospace;
 	font-size		:18px;
 	font-weight		:none;
 	border			:0px none rgb(0,0,0);
