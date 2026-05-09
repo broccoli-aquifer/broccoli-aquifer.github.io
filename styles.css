@@ -30,3 +30,17 @@ table, th, td{
  border:1px solid black;
  border-collapse:collapse;
 }
+
+table{
+  margin: 0em 0em ;
+ padding: 1em 2em ;
+}
+th, td{
+ background-color:rgb(255,255,255);
+            color:rgb(  0,  0,  0);
+
+ text-align: left;
+ 
+ font-family:Verdana, Helvetica, Arial, Sans-Serif;
+   font-size: 1em ;
+}
