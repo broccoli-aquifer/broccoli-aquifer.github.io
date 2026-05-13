@@ -6,7 +6,7 @@ body{
 div{
 background-color: rgb( 255, 255, 255 ) ;
 }
-p, ul, ol, li, th, td{
+p, li, th, td{
  background-color:rgb(255,255,255);
             color:rgb(  0,  0,  0);
 
