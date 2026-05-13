@@ -9,7 +9,8 @@ p, ul, ol{
   margin: 0em 0em ;
    padding-left: 12px;
   padding-right:12px;
-
+    padding-top:0px;
+ padding-bottom:0px;
  text-align: left;
  
  font-family:Verdana, Helvetica, Arial, Sans-Serif;
@@ -35,7 +36,9 @@ table, th, td{
 table{
   margin: 0em 0em ;
  padding-left: 12px;
- padding-right:12px;
+  padding-right:12px;
+    padding-top:0px;
+ padding-bottom:0px;
 }
 th, td{
  background-color:rgb(255,255,255);
