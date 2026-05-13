@@ -39,12 +39,14 @@ p{
 }
 
 li{
- border-width: 1px 0px;
- border-style: solid ;
- border-color: black ;
+ margin:5px;
+
+    border-width: 1px 0px;
+    border-style: solid ;
+    border-color: black ;
  border-collapse: collapse;
 
-padding: 0px;
+ padding: 0px;
 }
 
 
