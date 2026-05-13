@@ -6,7 +6,7 @@ body{
 div{
 background-color: rgb( 255, 255, 255 ) ;
 }
-p, ul, ol{
+p, ul, ol, th, td{
  background-color:rgb(255,255,255);
             color:rgb(  0,  0,  0);
 
@@ -37,6 +37,15 @@ h6 { font-size: 1.50em ; }
 p{
  background-color:rgb(255,255, 255);
 }
+
+ul, ol{
+ border:1px solid rgb(255,128,128);
+ border-collapse:collapse;
+}
+
+
+
+
 table, th, td{
  background-color:rgb(255,200,200);
  
@@ -52,7 +61,7 @@ table{
  padding-bottom:0px;
 }
 th, td{
- background-color:rgb(200,200,255);
+ background-color:rgb(255,255,255);
             color:rgb(  0,  0,  0);
 
  text-align: left;
