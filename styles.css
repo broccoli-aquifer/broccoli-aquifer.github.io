@@ -12,10 +12,10 @@ p, li, th, td{
 
   margin: 0em 0em ;
 
-   padding-left: 12vw;
-  padding-right:12vw;
-    padding-top:0px;
- padding-bottom:0px;
+   padding-left:0vw;
+  padding-right:0vw;
+    padding-top:2px;
+ padding-bottom:2px;
 
  text-align: left;
  
