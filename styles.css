@@ -38,8 +38,10 @@ p{
  background-color:rgb(255,255, 255);
 }
 
-ul, ol, li{
- border:1px solid black;
+li{
+ border-width: 1px 0px;
+ border-style: solid ;
+ border-color: black ;
  border-collapse:collapse;
 }
 
