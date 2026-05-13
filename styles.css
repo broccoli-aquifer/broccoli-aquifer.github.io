@@ -7,7 +7,7 @@ p, ul, ol{
             color:rgb(  0,  0,  0);
 
   margin: 0em 0em ;
- padding: 6%vw 12%vw ;
+ padding: 6vw 12vw ;
 
  text-align: left;
  
@@ -33,7 +33,7 @@ table, th, td{
 
 table{
   margin: 0em 0em ;
- padding: 6%vw 12%vw;
+ padding: 6vw 12vw;
 }
 th, td{
  background-color:rgb(255,255,255);
