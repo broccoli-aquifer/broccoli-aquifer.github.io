@@ -6,7 +6,7 @@ body{
 div{
 background-color: rgb( 255, 255, 255 ) ;
 }
-p, ul, ol, th, td{
+p, ul, ol, li, th, td{
  background-color:rgb(255,255,255);
             color:rgb(  0,  0,  0);
 
@@ -38,7 +38,7 @@ p{
  background-color:rgb(255,255, 255);
 }
 
-ul, ol{
+ul, ol, li{
  border:1px solid black;
  border-collapse:collapse;
 }
