@@ -75,3 +75,15 @@ th, td{
  font-family:Verdana, Helvetica, Arial, Sans-Serif;
    font-size: 12px ;
 }
+
+.container{
+ background-color:purple;
+}
+
+.box1{
+ background-color:red;
+}
+
+.box2{
+ background-color:blue;
+}
