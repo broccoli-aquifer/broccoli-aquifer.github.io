@@ -84,8 +84,12 @@ th, td{
 
 .box1{
  background-color:red;
+ height:100px ;
+ width: 100px ;
 }
 
 .box2{
  background-color:blue;
+ height:100px ;
+ width:100px ;
 }
