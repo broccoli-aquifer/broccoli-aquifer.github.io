@@ -82,14 +82,13 @@ th, td{
  colum-gap: 10px ;
 }
 
-.box1{
- background-color:red;
- height:100px ;
- width: 100px ;
+
+
+.box1, .box2{
+ height: 100px ;
+  width: auto ;
+ text-align: justify ;
 }
 
-.box2{
- background-color:blue;
- height:100px ;
- width:100px ;
-}
+.box1{ background-color: red ; }
+.box2{ background-color: blue ; }
