@@ -78,6 +78,8 @@ th, td{
 
 .container{
  background-color:purple;
+ display: flex ;
+ colum-gap: 10px ;
 }
 
 .box1{
