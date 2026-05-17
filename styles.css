@@ -87,8 +87,7 @@ th, td{
 
 
 .box1, .box2{
- height: 300px;
-  width: auto ;
+ padding: auto ;
  text-align: justify ;
 }
 
