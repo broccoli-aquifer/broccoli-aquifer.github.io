@@ -76,6 +76,15 @@ th, td{
    font-size: 12px ;
 }
 
+.spoiler{
+ background-color: rgb(0,0,0) ;
+            color: rgb(0,0,0) ;
+}
+.spoiler:active, .spoiler:hover{
+ background-color: rgb(256,256,256) ;
+            color: rgb(0,0,0) ;
+}
+
 .container{
  background-color:purple;
  display: flex ;
@@ -83,7 +92,6 @@ th, td{
  padding: 0px ;
  width: 800px ;
 }
-
 
 
 .box1, .box2{
