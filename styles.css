@@ -79,7 +79,8 @@ th, td{
 .container{
  background-color:purple;
  display: flex ;
- colum-gap: 10px ;
+ colum-gap: 0px ;
+ padding: 0px ;
  width: 800px ;
 }
 
